@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: Nai-Chieh-Huang.jpg
+  image: Hsuan-Hao-Lin.jpg
   image_circular: false # crops the image to make it circular
   more_info: false # adds a "more info" link to the end of the profile
 
